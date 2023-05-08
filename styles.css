@@ -44,3 +44,8 @@ body {
   text-align: center;
 
 }
+
+button {
+  margin-right: 1.1em;
+  margin-bottom: 1.1em;
+}
